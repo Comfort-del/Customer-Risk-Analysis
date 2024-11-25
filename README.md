@@ -8,7 +8,7 @@ The Retention Manager of a telecom company aims to determine the customer retent
 - What internet service are customers subscribing to?
 - What are the total charges of customer churn?
 - Which gender has the highest customer churn rate?
-- Interactive Dashboard -<a href= https://github.com/Comfort-del/Customer-Risk-Analysis/commit/f18484579a3da26a03805a4825da352dd2c1503b#diff-148bce1546e437c17817d03af95a4fe3d1f7b4c612de6f481c020766173f05c7<View Dashboard<a/>
+- Interactive Dashboard - <a href= "https://github.com/Comfort-del/Customer-Risk-Analysis/commit/f18484579a3da26a03805a4825da352dd2c1503b#diff-148bce1546e437c17817d03af95a4fe3d1f7b4c612de6f481c020766173f05c7">View Dashboard<a/>
 ## Process
 - Check for missing values and sort all the values.
 - Created DAX measures to enhance analysis and insights
